@@ -2,7 +2,8 @@
 
 > Translating complex Figma files into blisteringly fast, responsive web realities with 100/100 Core Web Vitals and zero bloat.
 
-![Vanguard Studio Showcase](https://raw.githubusercontent.com/Nkagyeman/vanguard-studio-showcase/main/public/preview.png)
+🔗 **Live Production URL:** [https://vanguard-studio-showcase.vercel.app](https://vanguard-studio-showcase.vercel.app)  
+📦 **GitHub Repository:** [https://github.com/Nkagyeman/vanguard-studio-showcase](https://github.com/Nkagyeman/vanguard-studio-showcase)
 
 ---
 
